@@ -39,6 +39,10 @@ body{
     width: 80%;
 }
 
+.container-sm img{
+    border-color: white;
+}
+
 .card{
     margin: 10px;
     margin-top: 20px;
